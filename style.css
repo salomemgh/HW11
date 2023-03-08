@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    width: 400px;
+    height: 600px;
+    margin: 0% auto;
+    background: #fafafa;
+    border: solid 1px #dcdcdc;
+    margin-top: 270px;
+}
+.photo{
+    width: 159.24px;
+    height: 146.57px;
+    margin-top: 50px;
+}
+.header{
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+}
+.text{
+    font-weight: 400;
+    color: #000000;
+}
